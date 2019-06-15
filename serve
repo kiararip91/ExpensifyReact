@@ -1,0 +1,65 @@
+Script started on Wed Jun 12 07:36:39 2019
+[?1034hbash-3.2$ yarn --v©v©v
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ yarn scr[K[K[Krun serve
+[2K[1G[1myarn run v1.16.0[22m
+[2K[1G[31merror[39m Command "serve" not found.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+bash-3.2$ yarn run serve
+[2K[1G[1myarn run v1.16.0[22m
+[2K[1G[31merror[39m An unexpected error occurred: "/Users/chiararipanti/Documents/Coding/react/indecision-app/package.json: Unexpected string in JSON at position 149".
+[2K[1G[34minfo[39m If you think this is a bug, please open a bug report with the information provided in "/Users/chiararipanti/Documents/Coding/react/indecision-app/yarn-error.log".
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+bash-3.2$ yarn run serve
+[2K[1G[1myarn run v1.16.0[22m
+[2K[1G[2m$ live-server public[22m
+[32mServing "public" at http://127.0.0.1:8080[39m
+[36mReady for changes[39m
+[0mGET /favicon.ico [33m404 [0m3.382 ms - 150[0m
+[36mChange detected[39m public/scripts/app.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/scripts/app.js
+[0mGET /scripts/app.js [33m404 [0m1.138 ms - 153[0m
+[0mGET /scripts/app.js [33m404 [0m0.594 ms - 153[0m
+[36mChange detected[39m public/index.html
+[0mGET /scripts/app.js [33m404 [0m1.185 ms - 153[0m
+[36mChange detected[39m public/scripts
+[0mGET /favicon.ico [33m404 [0m0.569 ms - 150[0m
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/bundle.js
+[36mChange detected[39m public/index.html

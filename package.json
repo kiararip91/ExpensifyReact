@@ -7,7 +7,8 @@
     "serve": "live-server public",
     "babel": "babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch",
     "build": "webpack",
-    "dev-server": "webpack-dev-server"
+    "dev-server": "webpack-dev-server",
+    "test-app": "jest --watch"
   },
   "dependencies": {
     "@babel/core": "^7.1.6",
@@ -17,6 +18,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "css-loader": "^3.0.0",
+    "jest": "^24.8.0",
     "live-server": "^1.2.1",
     "moment": "^2.24.0",
     "node-sass": "^4.12.0",
